@@ -1,0 +1,2 @@
+row_count,missing_required_columns,vehicle_id_pattern_violations,negative_duration_rows,return_before_pickup_rows,odometer_inversion_rows,fuel_out_of_range_rows,null_vehicle_id_rows,null_city_rows,invalid_promo_rows
+4527,[],0,0,931,0,0,0,0,923
